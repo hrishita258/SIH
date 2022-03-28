@@ -1,0 +1,18 @@
+.container {
+  min-height: 65vh;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.grid {
+  display: flex;
+  align-items: left;
+  justify-content: center;
+  flex-wrap: wrap;
+
+  max-width: 600px;
+  margin-top: 1rem;
+}
